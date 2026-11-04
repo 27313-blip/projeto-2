@@ -1,0 +1,41 @@
+/* Estilo para o corpo da página */
+body {
+  background-color: black;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+/* Estilo para os títulos */
+h1 {
+  color: hotpink;
+}
+
+h2 {
+  color: orange;
+}
+
+/* Estilo para os parágrafos */
+p {
+  color: white;
+}
+
+/* Classe de destaque */
+.destaque {
+  color: red;
+}
+
+/* Lista e link */
+li {
+  color: white;
+}
+
+a {
+  color: cyan;
+}
+
+Avaliação metacognitiva 
+1 Desafio Técnico: O que achei mais complicado foi perceber e resolver um erro no caso um erro de backgound mas pedi ajuda á minha irmã
+
+2 Correção de Sintaxe: Foi um erro de backgound
+
+3 Autoria: O href serve para um link e levarnos á pagina desse link 
